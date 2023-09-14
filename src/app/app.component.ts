@@ -17,7 +17,6 @@ export class AppComponent implements OnInit {
   gettingData(){
     this.apiService.getCharacter().subscribe(data => {
       this.data = data.results;
-      console.log(this.data);
     })
   }
 }
