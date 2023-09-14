@@ -1,0 +1,9 @@
+<div class="container">
+  <app-header></app-header>
+  <div class="centering">
+    <div class="table" *ngFor="let character of data">
+      <img class="char" [src]="character.image" [alt]="character.name" />
+    </div>
+  </div>
+  <app-footer></app-footer>
+</div>

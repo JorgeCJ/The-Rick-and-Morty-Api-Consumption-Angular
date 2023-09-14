@@ -1,0 +1,14 @@
+footer{
+  display: flex;
+  min-height:105px;
+  min-width:180px;
+  width:100vw;
+  color: white;
+  background: linear-gradient(to bottom, #add8e6, #ffc0cb);
+  margin-top:120px;
+  padding:0;
+}
+
+footer:hover{
+  box-shadow: 2px 2px 200px 2px white;
+}

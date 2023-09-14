@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&display=swap');
+
+header{
+  display: flex;
+  align-items:center;
+  justify-content:center;
+  font-weight: 500;
+  font-size:60px;
+  min-height:60px;
+  min-width:180px;
+  width:100vw;
+  color: black;
+  font-family: 'Qwitcher Grypen', cursive;
+  background: linear-gradient(to bottom, #add8e6, #ffc0cb);
+  margin-bottom:120px;
+  padding:0;
+}
+
+header:hover{
+  box-shadow: 2px 2px 200px 2px white;
+}
