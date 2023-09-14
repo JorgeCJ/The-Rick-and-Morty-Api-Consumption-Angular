@@ -1,3 +1,20 @@
+# The-Rick-and-Morty-Api-Consumption-Angular
+
+![thumb desenho rick and morty](https://github.com/JorgeCJ/The-Rick-and-Morty-Api-Consumption-Angular/assets/127647774/617ce9dc-3aef-47ad-b9b8-afb449c12f42)
+
+Api consumption of The Rick and Morty, a famous and very acidic animation. See it on [Vercel](https://the-rick-and-morty-api-consumption-angular.vercel.app/).
+
+## Technologies
+List of technologies used in the project:
+
+- [Angular](https://angular.io/docs)
+- [TypeScript](https://www.typescriptlang.org/docs/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [API The Rick and Morty](https://rickandmortyapi.com/documentation/#introduction)
+
+`See details on how to make the project work below:`
+
 # ApiConsumption
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
